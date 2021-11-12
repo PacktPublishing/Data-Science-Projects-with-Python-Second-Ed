@@ -1,12 +1,29 @@
 # Data-Science-Projects-With-Python-Second-Edition
 
-This code accompanies the second edition of Data Science Projects with Python (TBD link to Amazon page and more description)
+This is the repository for the second edition of [Data Science Projects with Python](https://packt.link/a/9781800564480), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all of the supporting files needed for you to work through the course from start to finish.
 
-# Installing Anaconda and Setting Up an Environment
+<a href="https://packt.link/a/9781800564480"><img src="https://static.packt-cdn.com/products/9781800564480/cover/smaller" alt="Data Science Projects with Python, 2nd Edition" height="280px" width="230px" align="right" this.target="_blank"></a> 
+
+## About Data Science Projects with Python
+
+[Data Science Projects with Python](https://packt.link/a/9781800564480) uses a case study approach to gaining valuable insights from real data with machine learning. By the end of this book, you will be able to: 
+* Think critically about data and use it to form and test a hypothesis
+* Choose an appropriate machine learning model and train it on your data
+* Communicate data-driven insights with confidence and clarity
+
+## What You Will Learn
+* Load, explore, and process data using the pandas Python package
+* Use Matplotlib to create compelling data visualizations
+* Implement predictive machine learning models with scikit-learn
+* Use lasso and ridge regression to reduce model overfitting
+* Evaluate random forest and logistic regression model performance
+* Deliver business insights by presenting clear, convincing conclusions
+
+## Installing Anaconda and Setting Up an Environment
 
 Install Anaconda by following the instructions at this link: https://www.anaconda.com/products/individual
 
-It is recommended to create an environment in Anaconda to do the exercises and activities in this book, which have been tested against the software versions indicated here. Once you have Anaconda installed, open a Terminal, if you're using macOS or Linux, or a Command Prompt window in Windows, and do the following:
+It is recommended to create an environment in Anaconda to do the exercises and activities in this book, which have been tested against the software versions indicated here. Once you have Anaconda installed, open a Terminal if you're using macOS or Linux, or a Command Prompt window in Windows, and do the following:
 
 1. Create an environment with most required packages. You can call it whatever you want; here it’s called `dspwp2`. Copy and paste, or type the entire statement here on one line in the terminal:
 
@@ -27,3 +44,9 @@ Type 'y' and [Enter] when prompted.
 4. You are ready to use the environment. To deactivate it when finished:
 
 `conda deactivate`
+
+## Related Books
+If you've found this book useful, you might want to check out some of our other titles:
+* [Data Science for Marketing Analytics](https://packt.link/a/1800560478)
+* [The Python Workshop](https://packt.link/a/9781839218859)
+* [The Statistics and Calculus with Python Workshop](https://packt.link/a/9781800209763)
